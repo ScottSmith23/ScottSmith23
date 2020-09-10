@@ -3,8 +3,8 @@
 ## I am Scott Smith
 
 <ul>
-  <li> ##Full Stack Web Developer </li>
-  <li> **Languages :** HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL </li>
+  <li> <Full Stack Web Developer </li>
+  <li> Languages: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL </li>
 </ul>  
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=ScottSmith23)
