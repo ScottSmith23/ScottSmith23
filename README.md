@@ -3,11 +3,12 @@
 ## I am Scott Smith
 
   <ul>
-    <li>Software Developer - Free Software and Open Source Developer</li>
+    <li> **Full Stack Web Developer** </li>
+    <li> **Languages :** HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL </li>
   </ul>  
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=ScottSmith23)
-
+!https://media.tenor.com/images/f0b3990f2f99ba1623a13564976c975e/tenor.gif
 <!--
 **ScottSmith23/ScottSmith23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
