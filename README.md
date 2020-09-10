@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! 👋
+
+I am Scott Smith
+
+    * I'm a Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=ScottSmith23)
 
