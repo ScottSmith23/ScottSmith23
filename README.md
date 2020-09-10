@@ -8,7 +8,7 @@
   </ul>  
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=ScottSmith23)
-!https://media.tenor.com/images/f0b3990f2f99ba1623a13564976c975e/tenor.gif
+!(https://media.tenor.com/images/f0b3990f2f99ba1623a13564976c975e/tenor.gif)
 <!--
 **ScottSmith23/ScottSmith23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
