@@ -3,7 +3,7 @@
 ## I am Scott Smith
 
 <ul>
-  <li> <Full Stack Web Developer </li>
+  <li> Full Stack Web Developer </li>
   <li> Languages: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL </li>
 </ul>  
 
