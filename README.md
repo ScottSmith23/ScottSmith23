@@ -5,7 +5,7 @@
 <ul>
   <li> Full Stack Web Developer </li>
   <li> Languages: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL </li>
-  <li>- 📫 How to reach me: scthsm@outlook.com or <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/scott-thomas-smith/">Linkedin</a>
+  <li>- 📫 How to reach me: scthsm@outlook.com or <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/scott-thomas-smith/">LinkedIn</a>
 </ul>  
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=ScottSmith23)
