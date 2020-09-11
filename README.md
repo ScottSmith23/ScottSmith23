@@ -5,7 +5,7 @@
 <ul>
   <li> Full Stack Web Developer </li>
   <li> Languages: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL </li>
-  <li>- 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/scott-thomas-smith/)
+  <li>- 📫 How to reach me: <>![Linkedin](https://www.linkedin.com/in/scott-thomas-smith/)</>
 
 </ul>  
 
