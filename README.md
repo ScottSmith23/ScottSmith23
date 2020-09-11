@@ -8,7 +8,7 @@
   <li>- 📫 How to reach me: 
 
 </ul>  
-![Linkedin](https://www.linkedin.com/in/scott-thomas-smith/)
+[Linkedin](https://www.linkedin.com/in/scott-thomas-smith/)
 
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=ScottSmith23)
 ![sponge](https://media.tenor.com/images/f0b3990f2f99ba1623a13564976c975e/tenor.gif)
