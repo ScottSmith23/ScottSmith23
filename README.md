@@ -6,7 +6,9 @@
   <li> Full Stack Web Developer </li>
   <li> Languages: HTML, CSS, JavaScript, React, Redux, Node.js, Express, SQL </li>
   <li>- 📫 How to reach me:
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/raghav-byte/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
+,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/_raghavit)
 </ul>  
  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scott-thomas-smith/)
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=ScottSmith23)
